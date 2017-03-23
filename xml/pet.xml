@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pets>
+
+	<dog id='1'>
+		<name>张三</name>
+		<health>100</health>
+		<love>0</love>
+		<strain>雪娜瑞</strain>
+	</dog>
+	<dog id='2'>
+		<name>李四</name>
+		<health>90</health>
+		<love>15</love>
+		<strain>拉布拉多</strain>
+	</dog>
+</pets> 

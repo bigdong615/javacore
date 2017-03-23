@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+
+	<contact id='1'>
+		<name>张三</name>
+		<mobile>13338383838</mobile>
+		<group>
+			<id>1</id>
+			<name>好友</name>
+		</group>
+	</contact>
+	<contact id='2'>
+		<name>李四</name>
+		<mobile>13834838383</mobile>
+		<group>
+			<id>2</id>
+			<name>同事</name>
+		</group>
+	</contact>
+</contacts> 
