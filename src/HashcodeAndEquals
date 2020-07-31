@@ -1,0 +1,23 @@
+
+public class HashcodeAndEquals {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		int i = 123;
+		int j = 123;
+		System.out.println(System.identityHashCode(i));
+		System.out.println(System.identityHashCode(j));
+		System.out.println(i==j);
+		
+		Integer a = new Integer(123);
+		Integer b = new Integer(123);
+		System.out.println(System.identityHashCode(a));
+		System.out.println(System.identityHashCode(b));
+		System.out.println(a.equals(b));
+}
+	
+	
+}
